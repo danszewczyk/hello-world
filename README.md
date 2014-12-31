@@ -14,8 +14,8 @@ Another paragraph
 3. a
 4. list
 
- * bullet
- * points
+* bullet 
+* points
 
 http://www.google.com
 
